@@ -1,0 +1,8 @@
+.movieCard {
+    width: 18rem;
+    box-shadow: 0 0 7px;
+    height: 45rem;
+}
+.MovieImg {
+    height: 50%;
+}

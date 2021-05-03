@@ -1,0 +1,12 @@
+.movieDescription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.movieDescription > * {
+    margin: 20px;
+}
+p {
+    color: aliceblue;
+}
